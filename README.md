@@ -12,7 +12,7 @@ Problem Statement: Given data about COVID-19 patients, write code to visualize t
 
 Guidelines:-
 
- ● Usepandas to accumulate data from multiple data files.
- ● Useplotly (visualization library) to create interactive visualizations.
- ● UseFacebook prophet library to make time series models.
- ● Visualize the prediction by combining these technologies.
+ 1. Usepandas to accumulate data from multiple data files.
+ 2. Useplotly (visualization library) to create interactive visualizations.
+ 3. UseFacebook prophet library to make time series models.
+ 4. Visualize the prediction by combining these technologies.
